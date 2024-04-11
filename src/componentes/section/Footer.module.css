@@ -1,0 +1,30 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:150px;
+}
+
+.footer ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+}
+
+.footer a{
+    color: #303030 !important;
+}
+
+.footer li:hover{
+    transform: translateY(-7px);
+    transition-duration: 0.25s;
+}
+
+.footer li{
+    margin: 15px;
+}
+
+.footer p{
+    margin: 25px;
+}
