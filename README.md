@@ -13,7 +13,6 @@ Junto aos componentes, foram criados elementos que possam ser utilizados no desi
 ## Aplicações e conhecimentos utilizados:
 * HTML
 * CSS
-* JavaScript
 * React.JS
 ---
 
