@@ -42,7 +42,9 @@ import {useEffect, useState} from 'react'
             <h1>{text}</h1>
             <p>
                 Sou estudante de programação no curso de Tecnologia<br/>
-                da Escola DNC, em busca de migração para a área de desenvolvimento.<br/>
+                da Escola DNC e graduando em Análise e Desenvolvimento de Sistemas <br/>
+                pela Universidade do Vale do Paraíba. Estou em busca de migração para a área<br/>
+                 de desenvolvimento.
                 Autodidata e curioso por hobby, sempre em busca de desafios que possam <br/>
                 me desenvolver profissional e pessoalmente e que possibilitem<br/>
                 deixar minha marca registrada no mundo, ou por onde eu passar.
